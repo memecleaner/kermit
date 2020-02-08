@@ -1,2 +1,2 @@
 # kermit
-belajar git
+window cleaner
